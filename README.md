@@ -14,6 +14,13 @@ A modern, production-ready cross-platform application for **Android & iOS** buil
 * **Dependency Injection:** Fully decoupled architecture wired together using **Koin**.
 
 ---
+## 🌟 Demo
+
+[![Compose Multiplatform Demo Android/iOS](https://img.youtube.com/vi/FEIMejeYA4c/maxresdefault.jpg)](https://youtube.com/shorts/FEIMejeYA4c)
+
+> 🎬 **[Click here to watch the full YouTube Shorts demo](https://youtube.com/shorts/FEIMejeYA4c)**
+
+---
 
 ## 🏛️ Architecture & Project Structure
 
